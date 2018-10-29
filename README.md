@@ -1,2 +1,2 @@
 # www.Hei.pa.deg.no
-Dritkul nettside
+Dritkult nettside
