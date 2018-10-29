@@ -1,2 +1,2 @@
-# Hei.pa.deg.no
+# www.Hei.pa.deg.no
 Dritkul nettside
